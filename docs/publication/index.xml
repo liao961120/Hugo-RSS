@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Academic</title>
-    <link>/publication/</link>
+    <link>/Hugo-RSS/publication/</link>
     <description>Recent content in Publications on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/Hugo-RSS/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-id/</link>
+      <link>/Hugo-RSS/publication/person-re-id/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0800</pubDate>
       
-      <guid>/publication/person-re-id/</guid>
+      <guid>/Hugo-RSS/publication/person-re-id/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
+      <link>/Hugo-RSS/publication/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0800</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
+      <guid>/Hugo-RSS/publication/clothing-search/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
