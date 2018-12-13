@@ -92,6 +92,14 @@
     
     <url>
     
+      <loc>/Hugo-RSS/post/2017-07-23-other-post/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/Hugo-RSS/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+08:00</lastmod>
     </url>
@@ -162,6 +170,15 @@
     
     <url>
     
+      <loc>/Hugo-RSS/categories/hugo/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/Hugo-RSS/project/</loc>
       <lastmod>2016-04-27T00:00:00+08:00</lastmod>
       <priority>0</priority>
@@ -215,6 +232,24 @@
     
       <loc>/Hugo-RSS/tags/</loc>
       <lastmod>2018-01-13T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/Hugo-RSS/tags/a/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/Hugo-RSS/tags/b/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
