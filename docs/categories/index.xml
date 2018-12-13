@@ -8,7 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     
-        <atom:link href="/Hugo-RSS/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/Hugo-RSS/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,8 +18,6 @@
       
       <guid>/Hugo-RSS/categories/r/</guid>
       <description></description>
-      
-      
     </item>
     
   </channel>
