@@ -23,6 +23,9 @@
       {{ range .Params.tags }}
             <category>{{ . }}</category>
       {{ end }}
+      {{ range .Params.categories }}
+            <category>{{ . }}</category>
+      {{ end }}
     </item>
     {{ end }}
   </channel>
